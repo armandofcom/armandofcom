@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=💻+Hey%2C+I'm+Armando+(affuentes+%2F+armandofcom)+💻;☁️+Cloud+Architect+%7C+DevSecOps+%7C+SRE+Geek;🚀+Your+Next+Cloud+Migration+Guru?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=💻+Hey%2C+I'm+Armando+(armandofcom)+💻;☁️+Cloud+Architect+%7C+DevSecOps+%7C+SRE+Geek;🚀+Your+Next+Cloud+Migration+Guru?)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,13 +24,6 @@
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=armandofcom&theme=tokyonight&hide_border=true&locale=en)
-
-</div>
-
-<div align="center">
-  
-[![wakatime stats](https://wakatime.com/badge/user/armandofcom.svg)](https://wakatime.com/@armandofcom)
-![Wakatime Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=armandofcom&theme=tokyonight&hide_border=true&locale=en)
 
 </div>
 
@@ -58,7 +51,7 @@
 ## 🛠️ Tech Stack (lo que toco casi todos los días)
 
 ### ☁️ Cloud & Infra
-<div align="center">
+<div align="left">
   
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -66,7 +59,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
   
 **AWS** (EKS, ECS, Lambda, RDS/Aurora, S3, CloudFront, VPC, Route 53, IAM, KMS…)
 **GCP** (Apigee, infra básica) cuando toca salir de la zona de confort
@@ -74,7 +67,7 @@
 </div>
 
 ### 🧱 IaC & Automatización
-<div align="center">
+<div align="left">
   
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
@@ -83,7 +76,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
   
 **Terraform** (módulos, workspaces, multi-account, patrones CloudPosse)
 CloudFormation (legacy pero querido)
@@ -92,7 +85,7 @@ Ansible, bash scripting, pipelines YAML everywhere
 </div>
 
 ### 🐳 Contenedores & Orquestación
-<div align="center">
+<div align="left">
   
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -101,7 +94,7 @@ Ansible, bash scripting, pipelines YAML everywhere
 
 </div>
 
-<div align="center">
+<div align="left">
   
 Kubernetes (EKS, self-managed), Helm, Karpenter
 ECS Fargate
@@ -110,7 +103,7 @@ Docker (imágenes multi-arch, optimización, seguridad)
 </div>
 
 ### 🔐 Seguridad, Observabilidad & Governance
-<div align="center">
+<div align="left">
   
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![Consul](https://img.shields.io/badge/Consul-00B5E2?style=for-the-badge&logo=Consul&logoColor=white)
@@ -121,7 +114,7 @@ Docker (imágenes multi-arch, optimización, seguridad)
 
 </div>
 
-<div align="center">
+<div align="left">
   
 Vault, Consul, Nomad
 Prowler, Wazuh, OpenVAS
@@ -131,7 +124,7 @@ Kong, Apigee, API Gateway, gobierno y ciclo de vida de APIs
 </div>
 
 ### 💾 Datos & Otros
-<div align="center">
+<div align="left">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -143,7 +136,7 @@ Kong, Apigee, API Gateway, gobierno y ciclo de vida de APIs
 
 </div>
 
-<div align="center">
+<div align="left">
   
 PostgreSQL / Aurora PostgreSQL, MySQL, MongoDB
 Python, Go (cuando hay que compilar cosas serias)
@@ -200,7 +193,7 @@ Git todo el día: GitHub, GitLab, Bitbucket (sí, también con CAPTCHAs imposibl
 
 </div>
 
-<div align="center">
+<div align="left">
   
 - Fundador de la comunidad **"SysAdminsdeCuba"**, impulsando conocimiento de sistemas y cloud.
 - Participante activo en:
@@ -217,7 +210,7 @@ Git todo el día: GitHub, GitLab, Bitbucket (sí, también con CAPTCHAs imposibl
 
 ## 📊 Un poco de ego (GitHub stats)
 
-<div align="center">
+<div align="left">
   
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=armandofcom&theme=tokyo-night)](https://github.com/armandofcom)
 
@@ -281,14 +274,6 @@ Git todo el día: GitHub, GitLab, Bitbucket (sí, también con CAPTCHAs imposibl
 
 ---
 
-## 🎯 Skills & Interests
-
-<div align="center">
-  
-[![armandofcom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=armandofcom&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&hide=java,html,css,typescript,javascript,php)](https://github.com/armandofcom)
-
-</div>
-
 ## 🏅 Professional Certifications
 
 <div align="center">
@@ -309,9 +294,9 @@ For a complete list of certifications visit: [Credly Profile](https://www.credly
   
 ## 💬 Contact Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armando@syscu.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandof@armandof.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armandofcom/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armandofcom)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armandof_com)
 
 </div>
 
