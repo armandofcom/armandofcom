@@ -289,6 +289,22 @@ Git todo el día: GitHub, GitLab, Bitbucket (sí, también con CAPTCHAs imposibl
 
 </div>
 
+## 🏅 Professional Certifications
+
+<div align="center">
+  
+[![](https://img.shields.io/badge/AWS-Certified_Full_Suite-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/armandofcom/badges)
+[![](https://img.shields.io/badge/Terraform-Certified-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/users/armandofcom/badges)
+[![](https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/users/armandofcom/badges)
+
+</div>
+
+<div align="center">
+  
+For a complete list of certifications visit: [Credly Profile](https://www.credly.com/users/armandofcom/badges)
+
+</div>
+
 <div align="center">
   
 ## 💬 Contact Me
