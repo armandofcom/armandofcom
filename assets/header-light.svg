@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="t d">
+  <title id="t">Armando Felipe</title>
+  <desc id="d">AWS Cloud Architect. FinOps and DevSecOps. Building secure, resilient and cost-efficient cloud platforms.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf2"/><stop offset="1" stop-color="#eaf0f6"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff9900"/><stop offset="1" stop-color="#232f3e"/></linearGradient>
+    <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb02e"/><stop offset="1" stop-color="#ff7a00"/></linearGradient>
+    <radialGradient id="glow" cx="0.12" cy="0.1" r="0.7"><stop offset="0" stop-color="#ff9900" stop-opacity="0.20"/><stop offset="1" stop-color="#ff9900" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#232f3e" fill-opacity="0.10"/></pattern>
+  </defs>
+  <rect width="1280" height="340" fill="url(#bg)"/>
+  <rect x="640" width="640" height="340" fill="url(#dots)"/>
+  <rect width="1280" height="340" fill="url(#glow)"/>
+  <rect y="332" width="1280" height="8" fill="url(#bar)"/>
+  <g font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+    <rect x="72" y="74" width="104" height="104" rx="26" fill="url(#mono)"/>
+    <text x="124" y="143" font-size="46" font-weight="800" fill="#232f3e" text-anchor="middle" letter-spacing="-1">AF</text>
+    <text x="204" y="130" font-size="68" font-weight="800" fill="#232f3e" letter-spacing="-2">Armando Felipe</text>
+    <text x="207" y="176" font-size="30" font-weight="700" fill="#b45309">AWS Cloud Architect</text>
+    <text x="207" y="214" font-size="20" fill="#3b4557">FinOps &amp; DevSecOps · Building secure, resilient and cost-efficient cloud platforms</text>
+    <g font-size="15" font-weight="600" text-anchor="middle" fill="#232f3e">
+      <g><rect x="72" y="256" width="150" height="36" rx="18" fill="#ffffff" stroke="#d8e0ea"/><text x="147" y="279">Madrid · remote</text></g>
+      <g><rect x="234" y="256" width="156" height="36" rx="18" fill="#ffffff" stroke="#d8e0ea"/><text x="312" y="279">Founder @ SysCu</text></g>
+      <g><rect x="402" y="256" width="352" height="36" rx="18" fill="#ffffff" stroke="#d8e0ea"/><text x="578" y="279">AWS Certified · Solutions Architect Associate</text></g>
+      <g><rect x="766" y="256" width="206" height="36" rx="18" fill="#ffffff" stroke="#d8e0ea"/><text x="869" y="279">FinOps · DevSecOps · SRE</text></g>
+    </g>
+  </g>
+</svg>

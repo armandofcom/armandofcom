@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220" role="img" aria-label="Impact: 63% lower quarterly AWS invoices, 100+ pipelines and clusters as code, 400+ B2B customers kept compliant, 80+ branches on VPN and MPLS">
+  <g font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+    <g fill="#ffffff" stroke="#d0d7de">
+      <rect x="40" y="24" width="290" height="172" rx="18"/>
+      <rect x="350" y="24" width="290" height="172" rx="18"/>
+      <rect x="660" y="24" width="290" height="172" rx="18"/>
+      <rect x="970" y="24" width="270" height="172" rx="18"/>
+    </g>
+    <g font-size="60" font-weight="800" fill="#e08600" letter-spacing="-2">
+      <text x="68" y="98">−63 %</text><text x="378" y="98">100+</text><text x="688" y="98">400+</text><text x="998" y="98">80+</text>
+    </g>
+    <g font-size="18" font-weight="700" fill="#1f2328">
+      <text x="68" y="134">Quarterly AWS invoices</text><text x="378" y="134">Pipelines &amp; clusters as code</text>
+      <text x="688" y="134">B2B clients kept compliant</text><text x="998" y="134">Branches on VPN / MPLS</text>
+    </g>
+    <g font-size="14" fill="#59636e">
+      <text x="68" y="160">Every account reviewed · Opinno</text><text x="378" y="160">Terraform, Kubernetes, cloud infra</text>
+      <text x="688" y="160">IAM &amp; server policy overhaul</text><text x="998" y="160">30+ security systems maintained</text>
+    </g>
+  </g>
+</svg>
